@@ -8,6 +8,11 @@
  */
 public class HelloWorld {
 
+	public static greetUser()
+	{
+		System.out.println("Please enter your name: Valeriya");
+		System.out.println("Hello Valeriya!");
+	}
 	/**
 	 * @param args
 	 */
